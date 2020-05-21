@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 819acc5ad9efda54a8732d5f9ef95ec0, type: 3}
+  m_Name: Texture1
+  m_EditorClassIdentifier: 
+  terrainTypes:
+  - text: {fileID: 2800000, guid: 794ba4e678eff804fb2d50797e62b5aa, type: 3}
+    scale: 100
+    blendStrength: 0.07
+    height: 0
+  - text: {fileID: 2800000, guid: 13267728054ef5f44836951703e5dc33, type: 3}
+    scale: 17.3
+    blendStrength: 0.21
+    height: 0.04
+  - text: {fileID: 2800000, guid: 3a46c201957d1be4d974737de11b0cfc, type: 3}
+    scale: 100
+    blendStrength: 0.204
+    height: 0.08
+  - text: {fileID: 2800000, guid: 2286d0b813271ab498bb1180c8dc3317, type: 3}
+    scale: 100
+    blendStrength: 0.188
+    height: 0.11
+  - text: {fileID: 2800000, guid: a832cfeb3307c5d47babe032e8573715, type: 3}
+    scale: 100
+    blendStrength: 0.096
+    height: 0.54
+  - text: {fileID: 2800000, guid: 48df24c20da84a74fbfc6e372b553ae4, type: 3}
+    scale: 100
+    blendStrength: 0.106
+    height: 0.9
